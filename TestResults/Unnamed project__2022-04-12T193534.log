@@ -1,0 +1,207 @@
+﻿2022-04-12T19:35:34.1453083+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-04-12T19:35:34.1455804+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2022-04-12T19:35:34.1455871+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-04-12T19:35:34.1483756+02:00;VSTestExecutionThread;Info;Current UserName: 'HP', MachineName: 'DESKTOP-2I0MMT0'
+2022-04-12T19:35:34.2226082+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Ubeeqo.dll
+2022-04-12T19:35:34.2240335+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\HP\source\repos\Ubeeqo\TestResults" (default)
+2022-04-12T19:35:34.2244177+02:00;VSTestExecutionThread;Info;Profile: 
+2022-04-12T19:35:34.3428957+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\HP\source\repos\Ubeeqo\TestResults\Unnamed project__2022-04-12T193534.log
+2022-04-12T19:35:34.3554037+02:00;Thread#12;Info;Checking activation
+2022-04-12T19:35:34.5191793+02:00;Thread#12;Info;Activated.
+2022-04-12T19:35:34.5195118+02:00;Thread#12;Info;Activation check completed
+2022-04-12T19:35:34.5196722+02:00;Thread#12;Info;Starting test run
+2022-04-12T19:35:34.7248495+02:00;Thread#12;Info;Discovering target: Default
+2022-04-12T19:35:34.7262669+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Ubeeqo.dll
+2022-04-12T19:35:34.9529479+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Ubeeqo.dll
+2022-04-12T19:35:34.9567193+02:00:Test Suite Dump
+2022-04-12T19:35:34.9615871+02:00:#0: Unnamed project/ - 
+2022-04-12T19:35:34.9616562+02:00:#1: Default - 
+2022-04-12T19:35:34.9616653+02:00:#2: Ubeeqo - 
+2022-04-12T19:35:34.9616711+02:00:#3: AccountSettings - 
+2022-04-12T19:35:34.9646268+02:00:#4: Change of First and Last name - TestAssembly:Ubeeqo/Feature:AccountSettings/Scenario:Change+of+First+and+Last+name
+2022-04-12T19:35:34.9648842+02:00:End: Test Suite Dump
+2022-04-12T19:35:35.0089033+02:00:Thread#0:Scheduler: get next test for thread 0
+2022-04-12T19:35:35.0140998+02:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2022-04-12T19:35:35.0143266+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2022-04-12T19:35:35.0241020+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2022-04-12T19:35:35.0241411+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2022-04-12T19:35:35.0241504+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2022-04-12T19:35:35.0241588+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2022-04-12T19:35:35.0257503+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2022-04-12T19:35:35.0286794+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-04-12T19:35:35.0441621+02:00:Thread #0: creating new test thread executor for Ubeeqo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-04-12T19:35:35.0510989+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-04-12T19:35:35.0515512+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-04-12T19:35:35.0548580+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-04-12T19:35:35.0573716+02:00:starting Out Of Process Executor
+2022-04-12T19:35:35.0608363+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-12T19:35:35.0735356+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-04-12T19:35:35.0735817+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-04-12T19:35:35.0763009+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1'
+2022-04-12T19:35:35.0771052+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-04-12T19:35:35.0773439+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-04-12T19:35:35.0774724+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1'
+2022-04-12T19:35:35.0779150+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-12T19:35:35.0808634+02:00:Tfm: netcoreapp3.1
+2022-04-12T19:35:35.0808958+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-12T19:35:35.0809024+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-04-12T19:35:35.0811952+02:00:[AssemblyCache] Found file 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-04-12T19:35:35.0835140+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-04-12T19:35:35.0856204+02:00:Starting callback TCP Rpc server
+2022-04-12T19:35:35.1222858+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-04-12T19:35:35.1225324+02:00:Started callback TCP Rpc server on port 32768
+2022-04-12T19:35:35.1225447+02:00:Starting logger TCP Rpc server
+2022-04-12T19:35:35.1272615+02:00:Asynchronously starting background TCP Rpc Server on port 32770
+2022-04-12T19:35:35.1273197+02:00:Started logger TCP Rpc server on port 32770
+2022-04-12T19:35:35.3845504+02:00:Executing test executor at 'dotnet' 'exec "C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 17396 --uniqueId "2022-04-12T193534" --outputFolder "C:\Users\HP\source\repos\Ubeeqo\TestResults" --callbackPort 32768 --loggerPort 32770' in 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1'
+2022-04-12T19:35:35.4190349+02:00:Executor with PID 20256 has been started successfully.
+2022-04-12T19:35:35.4382256+02:00:Out of Process Executor 20256 started
+2022-04-12T19:35:35.4392485+02:00:Waiting for endpoint
+2022-04-12T19:35:36.4251785+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-12T19:35:36.4252363+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-04-12T19:35:36.4252454+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-04-12T19:35:36.4252559+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1'
+2022-04-12T19:35:36.4252614+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-04-12T19:35:36.4253710+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-04-12T19:35:36.4254726+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1'
+2022-04-12T19:35:36.4255007+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-12T19:35:36.4255477+02:00:Tfm: netcoreapp3.1
+2022-04-12T19:35:36.4255582+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-12T19:35:36.4255636+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-04-12T19:35:36.4257036+02:00:[AssemblyCache] Found file 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-04-12T19:35:36.4267249+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-04-12T19:35:37.3206814+02:00:Remote executor port received: 32771
+2022-04-12T19:35:37.3212232+02:00:Creating executor TCP client on port 32771
+2022-04-12T19:35:37.3218324+02:00:Created executor TCP client on port 32771
+2022-04-12T19:35:37.3218488+02:00:Connecting to remote executor TCP server
+2022-04-12T19:35:37.3231361+02:00:Connected remote executor TCP server
+2022-04-12T19:35:37.3233560+02:00:trying to connect to Out of Process Executor the 1 attempt
+2022-04-12T19:35:37.3233741+02:00:Connection to Out of Process Executor established in the 1 attempt
+2022-04-12T19:35:37.5746221+02:00:2022-04-12T19:35:37.5689105+02:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Ubeeqo.dll on test thread #0
+2022-04-12T19:35:37.5947789+02:00:Endpoint 20256 started
+2022-04-12T19:35:37.6265506+02:00:2022-04-12T19:35:37.6259759+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-04-12T19:35:37.7830423+02:00:2022-04-12T19:35:37.7825383+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-04-12T19:35:37.7873470+02:00:2022-04-12T19:35:37.7868759+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-04-12T19:35:37.7955930+02:00:2022-04-12T19:35:37.7927724+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\HP\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-04-12T19:35:37.9693502+02:00:2022-04-12T19:35:37.9659236+02:00:Thread#0:T:-> Loading plugin C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\Ubeeqo.dll
+2022-04-12T19:35:37.9745617+02:00:2022-04-12T19:35:37.9724676+02:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-04-12T19:35:37.9848342+02:00:2022-04-12T19:35:37.9754231+02:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-04-12T19:35:38.0008335+02:00:2022-04-12T19:35:37.9860785+02:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\HP\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-04-12T19:35:38.0700142+02:00:2022-04-12T19:35:38.0688871+02:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-04-12T19:35:38.0721042+02:00:2022-04-12T19:35:38.0706549+02:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-04-12T19:35:38.0733382+02:00:2022-04-12T19:35:38.0728876+02:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\HP\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-04-12T19:35:38.0860298+02:00:2022-04-12T19:35:38.0855457+02:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in Ubeeqo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2022-04-12T19:35:38.0870272+02:00:2022-04-12T19:35:38.0864679+02:00:Thread#0:T:-> Loading plugin C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-04-12T19:35:38.0911264+02:00:2022-04-12T19:35:38.0904116+02:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-04-12T19:35:38.0924701+02:00:2022-04-12T19:35:38.0918819+02:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-04-12T19:35:38.1003342+02:00:2022-04-12T19:35:38.0932472+02:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\HP\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-04-12T19:35:38.1059857+02:00:2022-04-12T19:35:38.1053695+02:00:Thread#0:T:-> Loading plugin C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-04-12T19:35:38.1178750+02:00:2022-04-12T19:35:38.1173846+02:00:Thread#0:T:-> Using default config
+2022-04-12T19:35:38.1328083+02:00:2022-04-12T19:35:38.1323154+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2022-04-12T19:35:38.1333851+02:00:2022-04-12T19:35:38.1331084+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2022-04-12T19:35:38.1342140+02:00:2022-04-12T19:35:38.1338847+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\HP\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2022-04-12T19:35:38.1361551+02:00:2022-04-12T19:35:38.1357253+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2022-04-12T19:35:38.1367458+02:00:2022-04-12T19:35:38.1364553+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2022-04-12T19:35:38.1375067+02:00:2022-04-12T19:35:38.1372477+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\HP\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2022-04-12T19:35:38.1477240+02:00:2022-04-12T19:35:38.1472535+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-12T19:35:38.1483073+02:00:2022-04-12T19:35:38.1480382+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-04-12T19:35:38.1492600+02:00:2022-04-12T19:35:38.1489601+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\HP\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-04-12T19:35:38.2092262+02:00:2022-04-12T19:35:38.2087441+02:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-04-12T19:35:38.2097939+02:00:2022-04-12T19:35:38.2095638+02:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-04-12T19:35:38.2107892+02:00:2022-04-12T19:35:38.2103870+02:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\HP\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-04-12T19:35:38.3284034+02:00:Thread#0: Test #4/0 is started on thread #0
+2022-04-12T19:35:38.3830566+02:00:2022-04-12T19:35:38.3728364+02:00:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-04-12T19:35:38.3839404+02:00:2022-04-12T19:35:38.3835300+02:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2022-04-12T19:35:38.3849923+02:00:2022-04-12T19:35:38.3845674+02:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\HP\.nuget\packages\selenium.webdriver\4.1.0\lib\netstandard2.1\WebDriver.dll'
+2022-04-12T19:35:39.3202076+02:00:2022-04-12T19:35:38.9902388+02:00:Assembly resolving Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+2022-04-12T19:35:39.3236161+02:00:2022-04-12T19:35:39.3219491+02:00:[AssemblyCache] Trying to resolve 'Newtonsoft.Json' from .deps.json file
+2022-04-12T19:35:39.3269760+02:00:2022-04-12T19:35:39.3251930+02:00:[AssemblyCache] Resolved 'Newtonsoft.Json' to 'C:\Users\HP\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll'
+2022-04-12T19:35:41.8471457+02:00:2022-04-12T19:35:41.8298324+02:00:Thread#0:B:Given I navigate to Ubeeqo website
+2022-04-12T19:35:47.1406776+02:00:2022-04-12T19:35:47.1270583+02:00:Thread#0:T:done: LoginSteps.GivenINavigateToUbeeqoWebsite() (5.2s)
+2022-04-12T19:35:47.1648168+02:00:2022-04-12T19:35:47.1630312+02:00:Thread#0:B:When I enter the username "interviewtechnicaltest3@ubeeqo.com"
+2022-04-12T19:35:48.9175806+02:00:2022-04-12T19:35:48.9132816+02:00:Thread#0:T:done: LoginSteps.WhenIEnterTheUsername("interviewtechnica...") (1.7s)
+2022-04-12T19:35:48.9285035+02:00:2022-04-12T19:35:48.9276664+02:00:Thread#0:B:And I enter the password "34ZkdK04VXk5"
+2022-04-12T19:35:49.3102515+02:00:2022-04-12T19:35:49.2985125+02:00:Thread#0:T:done: LoginSteps.WhenIEnterThePassword("34ZkdK04VXk5") (0.4s)
+2022-04-12T19:35:49.3414839+02:00:2022-04-12T19:35:49.3137001+02:00:Thread#0:B:And I click on login button
+2022-04-12T19:35:49.5290824+02:00:2022-04-12T19:35:49.5073098+02:00:Thread#0:T:done: LoginSteps.WhenIClickOnLoginButton() (0.2s)
+2022-04-12T19:35:49.5925993+02:00:2022-04-12T19:35:49.5308575+02:00:Thread#0:B:And I click on agree button on the cookies banner
+2022-04-12T19:35:55.2452484+02:00:2022-04-12T19:35:55.2174278+02:00:Thread#0:T:done: LoginSteps.WhenIClickOnAgreeButtonOnTheCookiesBanner() (5.6s)
+2022-04-12T19:35:55.2761559+02:00:2022-04-12T19:35:55.2572491+02:00:Thread#0:B:And I click on personal profile on the header
+2022-04-12T19:35:59.0430141+02:00:2022-04-12T19:35:59.0401549+02:00:Thread#0:T:done: LogoutSteps.WhenIClickOnPersonalProfileOnTheHeader() (3.7s)
+2022-04-12T19:35:59.1244420+02:00:2022-04-12T19:35:59.0532059+02:00:Thread#0:B:And I clcik on account settings
+2022-04-12T19:36:00.2442731+02:00:2022-04-12T19:36:00.2252334+02:00:Thread#0:T:done: AccountSettingsSteps.WhenIClcikOnAccountSettings() (1.1s)
+2022-04-12T19:36:00.2887954+02:00:2022-04-12T19:36:00.2748582+02:00:Thread#0:B:And I enter first name "Temi"
+2022-04-12T19:36:01.3955532+02:00:2022-04-12T19:36:01.3891577+02:00:Thread#0:T:done: AccountSettingsSteps.WhenIEnterFistName("Temi") (1.1s)
+2022-04-12T19:36:01.3987700+02:00:2022-04-12T19:36:01.3980102+02:00:Thread#0:B:And I enter last name "Dayo"
+2022-04-12T19:36:01.6598693+02:00:2022-04-12T19:36:01.6572842+02:00:Thread#0:T:done: AccountSettingsSteps.WhenIEnterLastName("Dayo") (0.3s)
+2022-04-12T19:36:01.6659101+02:00:2022-04-12T19:36:01.6646876+02:00:Thread#0:B:And I click on save changes button
+2022-04-12T19:36:01.8091996+02:00:2022-04-12T19:36:01.8065938+02:00:Thread#0:T:done: AccountSettingsSteps.WhenIClickOnSaveChangesButton() (0.1s)
+2022-04-12T19:36:01.8170484+02:00:2022-04-12T19:36:01.8156957+02:00:Thread#0:B:Then A success image is displayed
+2022-04-12T19:36:01.8214171+02:00:2022-04-12T19:36:01.8206425+02:00:Assembly resolving nunit.framework, Version=3.13.3.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2022-04-12T19:36:01.8228633+02:00:2022-04-12T19:36:01.8220271+02:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2022-04-12T19:36:01.8255446+02:00:2022-04-12T19:36:01.8240479+02:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\HP\.nuget\packages\nunit\3.13.3\lib\netstandard2.0\nunit.framework.dll'
+2022-04-12T19:36:03.8355442+02:00:2022-04-12T19:36:03.8339760+02:00:Thread#0:T:done: AccountSettingsSteps.ThenASucessImageIsDisplayed() (2.0s)
+2022-04-12T19:36:03.8553787+02:00:Thread#0:Scheduler: get next test for thread 0
+2022-04-12T19:36:03.8554724+02:00:Thread#:Scheduler: at the end of normal test queue
+2022-04-12T19:36:03.8554824+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-04-12T19:36:03.8554917+02:00:Thread#0:Scheduler: No more tests for thread
+2022-04-12T19:36:04.5089166+02:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 26.1788023 seconds
+2022-04-12T19:36:04.5249484+02:00:2022-04-12T19:36:04.5240288+02:00:Got Deinitialize Signal
+2022-04-12T19:36:04.5320976+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-04-12T19:36:04.5345561+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-04-12T19:36:04.5378933+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-04-12T19:36:04.5411613+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-12T19:36:04.5412067+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2022-04-12T19:36:04.5412211+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2022-04-12T19:36:04.5412352+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1'
+2022-04-12T19:36:04.5412424+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-04-12T19:36:04.5415153+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-04-12T19:36:04.5439029+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1'
+2022-04-12T19:36:04.5439363+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-04-12T19:36:04.5440563+02:00:Tfm: netcoreapp3.1
+2022-04-12T19:36:04.5440662+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-12T19:36:04.5440703+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-04-12T19:36:04.5442925+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-04-12T19:36:04.5444230+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\HP\source\repos\Ubeeqo\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-04-12T19:36:04.5571108+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23'
+2022-04-12T19:36:04.5571487+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-04-12T19:36:04.5573083+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-04-12T19:36:04.5574029+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23'
+2022-04-12T19:36:04.5579841+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23'
+2022-04-12T19:36:04.5579986+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-04-12T19:36:04.5581069+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-04-12T19:36:04.5589912+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23'
+2022-04-12T19:36:04.5599891+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23'
+2022-04-12T19:36:04.5600137+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23\System.Diagnostics.Process.resources.dll'
+2022-04-12T19:36:04.5602235+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23\System.Diagnostics.Process.resources.exe'
+2022-04-12T19:36:04.5603774+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.23'
+2022-04-12T19:36:04.5660021+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2022-04-12T19:36:04.5847281+02:00:Thread#-1:Scheduler: get next test for thread -1
+2022-04-12T19:36:04.5847966+02:00:Thread#:Scheduler: at the end of normal test queue
+2022-04-12T19:36:04.5848076+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-04-12T19:36:04.5874160+02:00;Thread#12;Info;test run finished
+2022-04-12T19:36:04.5876824+02:00;Thread#12;Info;publishing test results
+2022-04-12T19:36:04.5878983+02:00;Thread#12;Info;Not publishing results.
+2022-04-12T19:36:04.5879972+02:00;Thread#12;Info;test results published
+2022-04-12T19:36:04.5880945+02:00;Thread#12;Info;generating reports
+2022-04-12T19:36:04.7182815+02:00;Thread#12;Info;Starting external report generation process
+2022-04-12T19:36:07.7235441+02:00;Thread#12;Info;Successfully generated reports.
+2022-04-12T19:36:07.7273610+02:00;Thread#12;Info;Successfully generated reports
+2022-04-12T19:36:07.7394376+02:00:Total: 1
+2022-04-12T19:36:07.7423554+02:00:Succeeded: 1
+2022-04-12T19:36:07.7427429+02:00:Ignored: 0
+2022-04-12T19:36:07.7430288+02:00:Pending: 0
+2022-04-12T19:36:07.7430394+02:00:Skipped: 0
+2022-04-12T19:36:07.7432785+02:00:Failed: 0
+2022-04-12T19:36:07.7526864+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-04-12T19:36:07.7531189+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\HP\source\repos\Ubeeqo\TestResults\Unnamed project__2022-04-12T193534.html'
+========== End of log file ==========
